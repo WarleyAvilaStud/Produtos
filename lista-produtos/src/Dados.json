@@ -1,0 +1,17 @@
+[
+    {
+     "id": 1,
+     "nomeProduto": "Um computador",
+     "valorProduto": "8100",
+     "disponivelProduto": "S",
+     "descricaoProduto": "Um computador com monitor, teclado e mouse prontos para serem usados"
+    },
+    
+    {
+     "id": 2,
+     "nomeProduto": "Dois computadores",
+     "valorProduto": "8200",
+     "disponivelProduto": "N",
+     "descricaoProduto": "dois computadores com monitor, teclado e mouse prontos para serem usados"
+    }
+]

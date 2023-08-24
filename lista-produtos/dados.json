@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nomeProduto": "Um computador",
+      "valorProduto": "8100",
+      "disponivelProduto": "S",
+      "descricaoProduto": "Um computador com monitor, teclado e mouse prontos para serem usados"
+    }
+  ]
+}
